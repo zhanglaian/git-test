@@ -1,3 +1,8 @@
 hello git! zhangsan!
 hello git! lisi!
+<<<<<<< HEAD
 zhanglaian
+=======
+ange
+hot-fix 111
+>>>>>>> hot-fix
